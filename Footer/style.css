@@ -1,0 +1,13 @@
+footer{
+    width: 100%;
+    display:flex;
+    justify-content:space-around;
+    position:fixed;
+    bottom:0;
+    background-color:steelblue
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
